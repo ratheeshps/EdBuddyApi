@@ -1,0 +1,27 @@
+Product projects
+---------------------------------------
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.common/edbuddy.common.csproj
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/edbuddy.dal.csproj
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.api/edbuddy.api.csproj
+
+
+Test projects
+---------------------------------------
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/test/edbuddy.api.test/edbuddy.api.test.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

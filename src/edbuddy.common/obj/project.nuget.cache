@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeHGg4tAXfPkoqGmdAYKCNYmhdOuWm5HkQoudabr5gIZSl0z9gMFW98JUxljUuLPxszKJ0Zdz4u8Z18+hkAOfw==",
+  "success": true,
+  "projectFilePath": "/Users/ratheesh/Documents/Work/Programming/Apis/EdBuddyApi/src/edbuddy.common/edbuddy.common.csproj",
+  "expectedPackageFiles": [
+    "/Users/ratheesh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ratheesh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

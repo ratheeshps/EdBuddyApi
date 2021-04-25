@@ -1,0 +1,10 @@
+`
+W/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/DbQueries/CommandText.csutf-8a
+X/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/DbQueries/ICommandText.csutf-8k
+b/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/Repositories/AppClientRepository.csutf-8f
+]/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/Repositories/BaseRepository.csutf-8l
+c/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/Repositories/IAppClientRepository.csutf-8g
+^/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/Repositories/IUserRepository.csutf-8f
+]/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/Repositories/UserRepository.csutf-8“
+‡/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.csutf-8~
+s/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/edbuddy.dal/obj/Debug/netstandard2.0/edbuddy.dal.AssemblyInfo.csutf-8

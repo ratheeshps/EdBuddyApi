@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{32391E0D-780E-4D07-8677-20A0062ACFA8}|buddingstars.api">
+  <MonoDevelop.Ide.ItemProperties.src.edbuddy.api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/edbuddy.api/Controllers/DashboardController.cs">
+    <Files>
+      <File FileName="src/edbuddy.common/entities/Responses.cs" Line="1" Column="1" />
+      <File FileName="src/edbuddy.api/Controllers/UserController.cs" />
+      <File FileName="src/edbuddy.dal/Repositories/IUserRepository.cs" />
+      <File FileName="src/edbuddy.dal/Repositories/UserRepository.cs" />
+      <File FileName="src/edbuddy.common/entities/User.cs" />
+      <File FileName="src/edbuddy.api/appsettings.json" />
+      <File FileName="src/edbuddy.api/Helpers/JwtHelper.cs" />
+      <File FileName="src/edbuddy.api/Controllers/ClientAuthController.cs" />
+      <File FileName="src/edbuddy.api/Controllers/ParentController.cs" />
+      <File FileName="src/edbuddy.api/Models/User.cs" />
+      <File FileName="src/edbuddy.api/Properties/launchSettings.json" />
+      <File FileName="src/edbuddy.common/entities/ClientAuth.cs" />
+      <File FileName="src/edbuddy.api/Startup.cs" />
+      <File FileName="src/edbuddy.api/Models/Policies.cs" />
+      <File FileName="src/edbuddy.api/Controllers/DashboardController.cs" Line="38" Column="19" />
+      <File FileName="src/edbuddy.api/Models/DashboardModel.cs" />
+      <File FileName="src/edbuddy.api/Models/tokens.cs" />
+      <File FileName="src/edbuddy.api/Controllers/KidsController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="edbuddy.api" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="edbuddy.api" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="DashboardController.cs" selected="True" />
+                </Node>
+                <Node name="Helpers" expanded="True" />
+                <Node name="Models" expanded="True" />
+                <Node name="Properties" expanded="True" />
+              </Node>
+              <Node name="edbuddy.common" expanded="True">
+                <Node name="entities" expanded="True" />
+              </Node>
+              <Node name="edbuddy.dal" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/ratheesh/Documents/Work/Programming/Apis/EdBuddyApi/src/edbuddy.api/Controllers/UserController.cs" relfile="src/edbuddy.api/Controllers/UserController.cs" line="52" column="1" />
+      <Breakpoint enabled="false" file="/Users/ratheesh/Documents/Work/Programming/Apis/EdBuddyApi/src/edbuddy.api/Controllers/ClientAuthController.cs" relfile="src/edbuddy.api/Controllers/ClientAuthController.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/bin/Debug/netstandard2.0/buddingstars.dal.deps.json
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/bin/Debug/netstandard2.0/buddingstars.dal.dll
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/bin/Debug/netstandard2.0/buddingstars.dal.pdb
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/bin/Debug/netstandard2.0/buddingstars.common.dll
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/bin/Debug/netstandard2.0/buddingstars.common.pdb
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.csprojAssemblyReference.cache
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.AssemblyInfoInputs.cache
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.AssemblyInfo.cs
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.csproj.CoreCompileInputs.cache
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.csproj.CopyComplete
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.dll
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.dal/obj/Debug/netstandard2.0/buddingstars.dal.pdb

@@ -1,0 +1,9 @@
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/bin/Debug/netstandard2.0/buddingstars.common.deps.json
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/bin/Debug/netstandard2.0/buddingstars.common.dll
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/bin/Debug/netstandard2.0/buddingstars.common.pdb
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/obj/Debug/netstandard2.0/buddingstars.common.csprojAssemblyReference.cache
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/obj/Debug/netstandard2.0/buddingstars.common.AssemblyInfoInputs.cache
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/obj/Debug/netstandard2.0/buddingstars.common.AssemblyInfo.cs
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/obj/Debug/netstandard2.0/buddingstars.common.csproj.CoreCompileInputs.cache
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/obj/Debug/netstandard2.0/buddingstars.common.dll
+/Users/ratheesh/Documents/Work/Apis/EdBuddyApi/src/buddingstars.common/obj/Debug/netstandard2.0/buddingstars.common.pdb
